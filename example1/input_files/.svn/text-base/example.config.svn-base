@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<procedure>
+	<step level="1" type="1">
+		<mate_pair>
+			<lib_size_limit min="0" max="6000"></lib_size_limit>
+		</mate_pair>
+		<min_links>2</min_links>
+		<deviate_factor>5</deviate_factor>
+	</step>
+</procedure>
+

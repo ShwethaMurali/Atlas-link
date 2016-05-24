@@ -1,0 +1,577 @@
+Scaffold1	1	15470	1	W	contig48	1	15470	+
+Scaffold1	15471	15520	2	N	50	Fragment	yes
+Scaffold1	15521	30990	3	W	contig49	1	15470	+
+Scaffold1	30991	31040	4	N	50	Fragment	yes
+Scaffold1	31041	46510	5	W	contig50	1	15470	+
+Scaffold1	46511	46560	6	N	50	Fragment	yes
+Scaffold1	46561	62030	7	W	contig51	1	15470	+
+Scaffold1	62031	62080	8	N	50	Fragment	yes
+Scaffold1	62081	77550	9	W	contig52	1	15470	+
+Scaffold1	77551	77600	10	N	50	Fragment	yes
+Scaffold1	77601	93070	11	W	contig53	1	15470	+
+Scaffold1	93071	93120	12	N	50	Fragment	yes
+Scaffold1	93121	108590	13	W	contig54	1	15470	+
+Scaffold1	108591	108640	14	N	50	Fragment	yes
+Scaffold1	108641	124110	15	W	contig55	1	15470	+
+Scaffold1	124111	124160	16	N	50	Fragment	yes
+Scaffold1	124161	139630	17	W	contig56	1	15470	+
+Scaffold1	139631	139680	18	N	50	Fragment	yes
+Scaffold1	139681	155150	19	W	contig57	1	15470	+
+Scaffold1	155151	155200	20	N	50	Fragment	yes
+Scaffold1	155201	170670	21	W	contig58	1	15470	+
+Scaffold1	170671	170720	22	N	50	Fragment	yes
+Scaffold1	170721	186190	23	W	contig59	1	15470	+
+Scaffold1	186191	186240	24	N	50	Fragment	yes
+Scaffold1	186241	201710	25	W	contig60	1	15470	+
+Scaffold1	201711	201760	26	N	50	Fragment	yes
+Scaffold1	201761	217230	27	W	contig61	1	15470	+
+Scaffold1	217231	217280	28	N	50	Fragment	yes
+Scaffold1	217281	232750	29	W	contig62	1	15470	+
+Scaffold1	232751	232800	30	N	50	Fragment	yes
+Scaffold1	232801	248270	31	W	contig63	1	15470	+
+Scaffold1	248271	248320	32	N	50	Fragment	yes
+Scaffold1	248321	263790	33	W	contig64	1	15470	+
+Scaffold1	263791	263840	34	N	50	Fragment	yes
+Scaffold1	263841	279310	35	W	contig65	1	15470	+
+Scaffold1	279311	279360	36	N	50	Fragment	yes
+Scaffold1	279361	294830	37	W	contig66	1	15470	+
+Scaffold1	294831	294880	38	N	50	Fragment	yes
+Scaffold1	294881	310350	39	W	contig67	1	15470	+
+Scaffold1	310351	310400	40	N	50	Fragment	yes
+Scaffold1	310401	325870	41	W	contig68	1	15470	+
+Scaffold1	325871	325920	42	N	50	Fragment	yes
+Scaffold1	325921	341390	43	W	contig69	1	15470	+
+Scaffold1	341391	341440	44	N	50	Fragment	yes
+Scaffold1	341441	356910	45	W	contig70	1	15470	+
+Scaffold1	356911	356960	46	N	50	Fragment	yes
+Scaffold1	356961	372430	47	W	contig71	1	15470	+
+Scaffold1	372431	372480	48	N	50	Fragment	yes
+Scaffold1	372481	387950	49	W	contig72	1	15470	+
+Scaffold1	387951	388000	50	N	50	Fragment	yes
+Scaffold1	388001	403470	51	W	contig73	1	15470	+
+Scaffold1	403471	403520	52	N	50	Fragment	yes
+Scaffold1	403521	418990	53	W	contig74	1	15470	+
+Scaffold1	418991	419040	54	N	50	Fragment	yes
+Scaffold1	419041	434510	55	W	contig75	1	15470	+
+Scaffold1	434511	434560	56	N	50	Fragment	yes
+Scaffold1	434561	450030	57	W	contig76	1	15470	+
+Scaffold1	450031	450080	58	N	50	Fragment	yes
+Scaffold1	450081	465550	59	W	contig77	1	15470	+
+Scaffold1	465551	465600	60	N	50	Fragment	yes
+Scaffold1	465601	481070	61	W	contig78	1	15470	+
+Scaffold1	481071	481120	62	N	50	Fragment	yes
+Scaffold1	481121	496590	63	W	contig79	1	15470	+
+Scaffold1	496591	496640	64	N	50	Fragment	yes
+Scaffold1	496641	512110	65	W	contig80	1	15470	+
+Scaffold1	512111	512160	66	N	50	Fragment	yes
+Scaffold1	512161	527630	67	W	contig81	1	15470	+
+Scaffold1	527631	527680	68	N	50	Fragment	yes
+Scaffold1	527681	543150	69	W	contig82	1	15470	+
+Scaffold1	543151	543200	70	N	50	Fragment	yes
+Scaffold1	543201	558670	71	W	contig83	1	15470	+
+Scaffold1	558671	558720	72	N	50	Fragment	yes
+Scaffold1	558721	574190	73	W	contig84	1	15470	+
+Scaffold1	574191	574240	74	N	50	Fragment	yes
+Scaffold1	574241	589710	75	W	contig85	1	15470	+
+Scaffold1	589711	589760	76	N	50	Fragment	yes
+Scaffold1	589761	605230	77	W	contig86	1	15470	+
+Scaffold1	605231	605280	78	N	50	Fragment	yes
+Scaffold1	605281	620750	79	W	contig87	1	15470	+
+Scaffold1	620751	620800	80	N	50	Fragment	yes
+Scaffold1	620801	636270	81	W	contig88	1	15470	+
+Scaffold1	636271	636320	82	N	50	Fragment	yes
+Scaffold1	636321	651790	83	W	contig89	1	15470	+
+Scaffold1	651791	651840	84	N	50	Fragment	yes
+Scaffold1	651841	667310	85	W	contig90	1	15470	+
+Scaffold1	667311	667360	86	N	50	Fragment	yes
+Scaffold1	667361	682830	87	W	contig91	1	15470	+
+Scaffold1	682831	682880	88	N	50	Fragment	yes
+Scaffold1	682881	698350	89	W	contig92	1	15470	+
+Scaffold1	698351	698400	90	N	50	Fragment	yes
+Scaffold1	698401	713870	91	W	contig93	1	15470	+
+Scaffold1	713871	713920	92	N	50	Fragment	yes
+Scaffold1	713921	729390	93	W	contig94	1	15470	+
+Scaffold1	729391	729440	94	N	50	Fragment	yes
+Scaffold1	729441	744910	95	W	contig95	1	15470	+
+Scaffold1	744911	744960	96	N	50	Fragment	yes
+Scaffold1	744961	760430	97	W	contig96	1	15470	+
+Scaffold1	760431	760480	98	N	50	Fragment	yes
+Scaffold1	760481	775950	99	W	contig97	1	15470	+
+Scaffold1	775951	776000	100	N	50	Fragment	yes
+Scaffold1	776001	791470	101	W	contig98	1	15470	+
+Scaffold1	791471	791520	102	N	50	Fragment	yes
+Scaffold1	791521	806990	103	W	contig99	1	15470	+
+Scaffold1	806991	807040	104	N	50	Fragment	yes
+Scaffold1	807041	822510	105	W	contig100	1	15470	+
+Scaffold1	822511	822560	106	N	50	Fragment	yes
+Scaffold1	822561	838030	107	W	contig101	1	15470	+
+Scaffold1	838031	838080	108	N	50	Fragment	yes
+Scaffold1	838081	853550	109	W	contig102	1	15470	+
+Scaffold1	853551	853600	110	N	50	Fragment	yes
+Scaffold1	853601	869070	111	W	contig103	1	15470	+
+Scaffold1	869071	869120	112	N	50	Fragment	yes
+Scaffold1	869121	884590	113	W	contig104	1	15470	+
+Scaffold1	884591	884640	114	N	50	Fragment	yes
+Scaffold1	884641	900110	115	W	contig105	1	15470	+
+Scaffold1	900111	900160	116	N	50	Fragment	yes
+Scaffold1	900161	915630	117	W	contig106	1	15470	+
+Scaffold1	915631	915680	118	N	50	Fragment	yes
+Scaffold1	915681	931150	119	W	contig107	1	15470	+
+Scaffold1	931151	931200	120	N	50	Fragment	yes
+Scaffold1	931201	946670	121	W	contig108	1	15470	+
+Scaffold1	946671	946720	122	N	50	Fragment	yes
+Scaffold1	946721	962190	123	W	contig109	1	15470	+
+Scaffold1	962191	962240	124	N	50	Fragment	yes
+Scaffold1	962241	977710	125	W	contig110	1	15470	+
+Scaffold1	977711	977760	126	N	50	Fragment	yes
+Scaffold1	977761	993230	127	W	contig111	1	15470	+
+Scaffold1	993231	993280	128	N	50	Fragment	yes
+Scaffold1	993281	1008750	129	W	contig112	1	15470	+
+Scaffold1	1008751	1008800	130	N	50	Fragment	yes
+Scaffold1	1008801	1024270	131	W	contig113	1	15470	+
+Scaffold1	1024271	1024320	132	N	50	Fragment	yes
+Scaffold1	1024321	1039790	133	W	contig114	1	15470	+
+Scaffold1	1039791	1039840	134	N	50	Fragment	yes
+Scaffold1	1039841	1055310	135	W	contig115	1	15470	+
+Scaffold1	1055311	1055360	136	N	50	Fragment	yes
+Scaffold1	1055361	1070830	137	W	contig116	1	15470	+
+Scaffold1	1070831	1070880	138	N	50	Fragment	yes
+Scaffold1	1070881	1086350	139	W	contig117	1	15470	+
+Scaffold1	1086351	1086400	140	N	50	Fragment	yes
+Scaffold1	1086401	1101870	141	W	contig118	1	15470	+
+Scaffold1	1101871	1101920	142	N	50	Fragment	yes
+Scaffold1	1101921	1117390	143	W	contig119	1	15470	+
+Scaffold1	1117391	1117440	144	N	50	Fragment	yes
+Scaffold1	1117441	1132910	145	W	contig120	1	15470	+
+Scaffold1	1132911	1132960	146	N	50	Fragment	yes
+Scaffold1	1132961	1148430	147	W	contig121	1	15470	+
+Scaffold1	1148431	1148480	148	N	50	Fragment	yes
+Scaffold1	1148481	1163950	149	W	contig122	1	15470	+
+Scaffold1	1163951	1164000	150	N	50	Fragment	yes
+Scaffold1	1164001	1179470	151	W	contig123	1	15470	+
+Scaffold1	1179471	1179520	152	N	50	Fragment	yes
+Scaffold1	1179521	1194990	153	W	contig124	1	15470	+
+Scaffold1	1194991	1195040	154	N	50	Fragment	yes
+Scaffold1	1195041	1210510	155	W	contig125	1	15470	+
+Scaffold1	1210511	1210560	156	N	50	Fragment	yes
+Scaffold1	1210561	1226030	157	W	contig126	1	15470	+
+Scaffold1	1226031	1226080	158	N	50	Fragment	yes
+Scaffold1	1226081	1241550	159	W	contig127	1	15470	+
+Scaffold1	1241551	1241600	160	N	50	Fragment	yes
+Scaffold1	1241601	1257070	161	W	contig128	1	15470	+
+Scaffold1	1257071	1257120	162	N	50	Fragment	yes
+Scaffold1	1257121	1272590	163	W	contig129	1	15470	+
+Scaffold1	1272591	1272640	164	N	50	Fragment	yes
+Scaffold1	1272641	1288110	165	W	contig130	1	15470	+
+Scaffold1	1288111	1288160	166	N	50	Fragment	yes
+Scaffold1	1288161	1303630	167	W	contig131	1	15470	+
+Scaffold1	1303631	1303680	168	N	50	Fragment	yes
+Scaffold1	1303681	1319150	169	W	contig132	1	15470	+
+Scaffold1	1319151	1319200	170	N	50	Fragment	yes
+Scaffold1	1319201	1334670	171	W	contig133	1	15470	+
+Scaffold1	1334671	1334720	172	N	50	Fragment	yes
+Scaffold1	1334721	1350190	173	W	contig134	1	15470	+
+Scaffold1	1350191	1350240	174	N	50	Fragment	yes
+Scaffold1	1350241	1365710	175	W	contig135	1	15470	+
+Scaffold1	1365711	1365760	176	N	50	Fragment	yes
+Scaffold1	1365761	1381230	177	W	contig136	1	15470	+
+Scaffold1	1381231	1381280	178	N	50	Fragment	yes
+Scaffold1	1381281	1396750	179	W	contig137	1	15470	+
+Scaffold1	1396751	1396800	180	N	50	Fragment	yes
+Scaffold1	1396801	1412270	181	W	contig138	1	15470	+
+Scaffold1	1412271	1412320	182	N	50	Fragment	yes
+Scaffold1	1412321	1427790	183	W	contig139	1	15470	+
+Scaffold1	1427791	1427840	184	N	50	Fragment	yes
+Scaffold1	1427841	1443310	185	W	contig140	1	15470	+
+Scaffold1	1443311	1443360	186	N	50	Fragment	yes
+Scaffold1	1443361	1458830	187	W	contig141	1	15470	+
+Scaffold1	1458831	1458880	188	N	50	Fragment	yes
+Scaffold1	1458881	1474350	189	W	contig142	1	15470	+
+Scaffold1	1474351	1474400	190	N	50	Fragment	yes
+Scaffold1	1474401	1489870	191	W	contig143	1	15470	+
+Scaffold1	1489871	1489920	192	N	50	Fragment	yes
+Scaffold1	1489921	1505390	193	W	contig144	1	15470	+
+Scaffold1	1505391	1505440	194	N	50	Fragment	yes
+Scaffold1	1505441	1520910	195	W	contig145	1	15470	+
+Scaffold1	1520911	1520960	196	N	50	Fragment	yes
+Scaffold1	1520961	1536430	197	W	contig146	1	15470	+
+Scaffold1	1536431	1536480	198	N	50	Fragment	yes
+Scaffold1	1536481	1551950	199	W	contig147	1	15470	+
+Scaffold1	1551951	1552000	200	N	50	Fragment	yes
+Scaffold1	1552001	1567470	201	W	contig148	1	15470	+
+Scaffold1	1567471	1567520	202	N	50	Fragment	yes
+Scaffold1	1567521	1582990	203	W	contig149	1	15470	+
+Scaffold1	1582991	1583040	204	N	50	Fragment	yes
+Scaffold1	1583041	1598510	205	W	contig150	1	15470	+
+Scaffold1	1598511	1598560	206	N	50	Fragment	yes
+Scaffold1	1598561	1614030	207	W	contig151	1	15470	+
+Scaffold1	1614031	1614080	208	N	50	Fragment	yes
+Scaffold1	1614081	1629550	209	W	contig152	1	15470	+
+Scaffold1	1629551	1629600	210	N	50	Fragment	yes
+Scaffold1	1629601	1645070	211	W	contig153	1	15470	+
+Scaffold1	1645071	1645120	212	N	50	Fragment	yes
+Scaffold1	1645121	1660590	213	W	contig154	1	15470	+
+Scaffold1	1660591	1660640	214	N	50	Fragment	yes
+Scaffold1	1660641	1676110	215	W	contig155	1	15470	+
+Scaffold1	1676111	1676160	216	N	50	Fragment	yes
+Scaffold1	1676161	1691630	217	W	contig156	1	15470	+
+Scaffold1	1691631	1691680	218	N	50	Fragment	yes
+Scaffold1	1691681	1707150	219	W	contig157	1	15470	+
+Scaffold1	1707151	1707200	220	N	50	Fragment	yes
+Scaffold1	1707201	1722670	221	W	contig158	1	15470	+
+Scaffold1	1722671	1722720	222	N	50	Fragment	yes
+Scaffold1	1722721	1738190	223	W	contig159	1	15470	+
+Scaffold1	1738191	1738240	224	N	50	Fragment	yes
+Scaffold1	1738241	1753710	225	W	contig160	1	15470	+
+Scaffold1	1753711	1753760	226	N	50	Fragment	yes
+Scaffold1	1753761	1769230	227	W	contig161	1	15470	+
+Scaffold1	1769231	1769280	228	N	50	Fragment	yes
+Scaffold1	1769281	1784750	229	W	contig162	1	15470	+
+Scaffold1	1784751	1784800	230	N	50	Fragment	yes
+Scaffold1	1784801	1800270	231	W	contig163	1	15470	+
+Scaffold1	1800271	1800320	232	N	50	Fragment	yes
+Scaffold1	1800321	1815790	233	W	contig164	1	15470	+
+Scaffold1	1815791	1815840	234	N	50	Fragment	yes
+Scaffold1	1815841	1831310	235	W	contig165	1	15470	+
+Scaffold1	1831311	1831360	236	N	50	Fragment	yes
+Scaffold1	1831361	1846830	237	W	contig166	1	15470	+
+Scaffold1	1846831	1846880	238	N	50	Fragment	yes
+Scaffold1	1846881	1862350	239	W	contig167	1	15470	+
+Scaffold1	1862351	1862400	240	N	50	Fragment	yes
+Scaffold1	1862401	1877870	241	W	contig168	1	15470	+
+Scaffold1	1877871	1877920	242	N	50	Fragment	yes
+Scaffold1	1877921	1893390	243	W	contig169	1	15470	+
+Scaffold1	1893391	1893440	244	N	50	Fragment	yes
+Scaffold1	1893441	1908910	245	W	contig170	1	15470	+
+Scaffold1	1908911	1908960	246	N	50	Fragment	yes
+Scaffold1	1908961	1924430	247	W	contig171	1	15470	+
+Scaffold1	1924431	1924480	248	N	50	Fragment	yes
+Scaffold1	1924481	1939950	249	W	contig172	1	15470	+
+Scaffold1	1939951	1940000	250	N	50	Fragment	yes
+Scaffold1	1940001	1955470	251	W	contig173	1	15470	+
+Scaffold1	1955471	1955520	252	N	50	Fragment	yes
+Scaffold1	1955521	1970990	253	W	contig174	1	15470	+
+Scaffold1	1970991	1971040	254	N	50	Fragment	yes
+Scaffold1	1971041	1986510	255	W	contig175	1	15470	+
+Scaffold1	1986511	1986560	256	N	50	Fragment	yes
+Scaffold1	1986561	2002030	257	W	contig176	1	15470	+
+Scaffold1	2002031	2002080	258	N	50	Fragment	yes
+Scaffold1	2002081	2017550	259	W	contig177	1	15470	+
+Scaffold1	2017551	2017600	260	N	50	Fragment	yes
+Scaffold1	2017601	2033070	261	W	contig178	1	15470	+
+Scaffold1	2033071	2033120	262	N	50	Fragment	yes
+Scaffold1	2033121	2048590	263	W	contig179	1	15470	+
+Scaffold1	2048591	2048640	264	N	50	Fragment	yes
+Scaffold1	2048641	2064110	265	W	contig180	1	15470	+
+Scaffold1	2064111	2064160	266	N	50	Fragment	yes
+Scaffold1	2064161	2079630	267	W	contig181	1	15470	+
+Scaffold2	1	15470	1	W	contig182	1	15470	+
+Scaffold2	15471	15520	2	N	50	Fragment	yes
+Scaffold2	15521	30990	3	W	contig183	1	15470	+
+Scaffold2	30991	31040	4	N	50	Fragment	yes
+Scaffold2	31041	46510	5	W	contig184	1	15470	+
+Scaffold2	46511	46560	6	N	50	Fragment	yes
+Scaffold2	46561	62030	7	W	contig185	1	15470	+
+Scaffold2	62031	62080	8	N	50	Fragment	yes
+Scaffold2	62081	77550	9	W	contig186	1	15470	+
+Scaffold2	77551	77600	10	N	50	Fragment	yes
+Scaffold2	77601	93070	11	W	contig187	1	15470	+
+Scaffold2	93071	93120	12	N	50	Fragment	yes
+Scaffold2	93121	108590	13	W	contig188	1	15470	+
+Scaffold2	108591	108640	14	N	50	Fragment	yes
+Scaffold2	108641	124110	15	W	contig189	1	15470	+
+Scaffold2	124111	124160	16	N	50	Fragment	yes
+Scaffold2	124161	139630	17	W	contig190	1	15470	+
+Scaffold2	139631	139680	18	N	50	Fragment	yes
+Scaffold2	139681	155150	19	W	contig191	1	15470	+
+Scaffold2	155151	155200	20	N	50	Fragment	yes
+Scaffold2	155201	170670	21	W	contig192	1	15470	+
+Scaffold2	170671	170720	22	N	50	Fragment	yes
+Scaffold2	170721	186190	23	W	contig193	1	15470	+
+Scaffold2	186191	186240	24	N	50	Fragment	yes
+Scaffold2	186241	201710	25	W	contig194	1	15470	+
+Scaffold2	201711	201760	26	N	50	Fragment	yes
+Scaffold2	201761	217230	27	W	contig195	1	15470	+
+Scaffold2	217231	217280	28	N	50	Fragment	yes
+Scaffold2	217281	232750	29	W	contig196	1	15470	+
+Scaffold2	232751	232800	30	N	50	Fragment	yes
+Scaffold2	232801	248270	31	W	contig197	1	15470	+
+Scaffold2	248271	248320	32	N	50	Fragment	yes
+Scaffold2	248321	263790	33	W	contig198	1	15470	+
+Scaffold2	263791	263840	34	N	50	Fragment	yes
+Scaffold2	263841	279310	35	W	contig199	1	15470	+
+Scaffold2	279311	279360	36	N	50	Fragment	yes
+Scaffold2	279361	294830	37	W	contig200	1	15470	+
+Scaffold2	294831	294880	38	N	50	Fragment	yes
+Scaffold2	294881	310350	39	W	contig201	1	15470	+
+Scaffold2	310351	310400	40	N	50	Fragment	yes
+Scaffold2	310401	325870	41	W	contig202	1	15470	+
+Scaffold2	325871	325920	42	N	50	Fragment	yes
+Scaffold2	325921	341390	43	W	contig203	1	15470	+
+Scaffold2	341391	341440	44	N	50	Fragment	yes
+Scaffold2	341441	356910	45	W	contig204	1	15470	+
+Scaffold2	356911	356960	46	N	50	Fragment	yes
+Scaffold2	356961	372430	47	W	contig205	1	15470	+
+Scaffold2	372431	372480	48	N	50	Fragment	yes
+Scaffold2	372481	387950	49	W	contig206	1	15470	+
+Scaffold2	387951	388000	50	N	50	Fragment	yes
+Scaffold2	388001	403470	51	W	contig207	1	15470	+
+Scaffold2	403471	403520	52	N	50	Fragment	yes
+Scaffold2	403521	418990	53	W	contig208	1	15470	+
+Scaffold2	418991	419040	54	N	50	Fragment	yes
+Scaffold2	419041	434510	55	W	contig209	1	15470	+
+Scaffold2	434511	434560	56	N	50	Fragment	yes
+Scaffold2	434561	450030	57	W	contig210	1	15470	+
+Scaffold2	450031	450080	58	N	50	Fragment	yes
+Scaffold2	450081	465550	59	W	contig211	1	15470	+
+Scaffold2	465551	465600	60	N	50	Fragment	yes
+Scaffold2	465601	481070	61	W	contig212	1	15470	+
+Scaffold2	481071	481120	62	N	50	Fragment	yes
+Scaffold2	481121	496590	63	W	contig213	1	15470	+
+Scaffold2	496591	496640	64	N	50	Fragment	yes
+Scaffold2	496641	512110	65	W	contig214	1	15470	+
+Scaffold2	512111	512160	66	N	50	Fragment	yes
+Scaffold2	512161	527630	67	W	contig215	1	15470	+
+Scaffold2	527631	527680	68	N	50	Fragment	yes
+Scaffold2	527681	543150	69	W	contig216	1	15470	+
+Scaffold2	543151	543200	70	N	50	Fragment	yes
+Scaffold2	543201	558670	71	W	contig217	1	15470	+
+Scaffold2	558671	558720	72	N	50	Fragment	yes
+Scaffold2	558721	574190	73	W	contig218	1	15470	+
+Scaffold2	574191	574240	74	N	50	Fragment	yes
+Scaffold2	574241	589710	75	W	contig219	1	15470	+
+Scaffold2	589711	589760	76	N	50	Fragment	yes
+Scaffold2	589761	605230	77	W	contig220	1	15470	+
+Scaffold2	605231	605280	78	N	50	Fragment	yes
+Scaffold2	605281	620750	79	W	contig221	1	15470	+
+Scaffold2	620751	620800	80	N	50	Fragment	yes
+Scaffold2	620801	636270	81	W	contig222	1	15470	+
+Scaffold2	636271	636320	82	N	50	Fragment	yes
+Scaffold2	636321	651790	83	W	contig223	1	15470	+
+Scaffold2	651791	651840	84	N	50	Fragment	yes
+Scaffold2	651841	667310	85	W	contig224	1	15470	+
+Scaffold2	667311	667360	86	N	50	Fragment	yes
+Scaffold2	667361	682830	87	W	contig225	1	15470	+
+Scaffold2	682831	682880	88	N	50	Fragment	yes
+Scaffold2	682881	698350	89	W	contig226	1	15470	+
+Scaffold2	698351	698400	90	N	50	Fragment	yes
+Scaffold2	698401	713870	91	W	contig227	1	15470	+
+Scaffold2	713871	713920	92	N	50	Fragment	yes
+Scaffold2	713921	729390	93	W	contig228	1	15470	+
+Scaffold2	729391	729440	94	N	50	Fragment	yes
+Scaffold2	729441	744910	95	W	contig229	1	15470	+
+Scaffold2	744911	744960	96	N	50	Fragment	yes
+Scaffold2	744961	760430	97	W	contig230	1	15470	+
+Scaffold2	760431	760480	98	N	50	Fragment	yes
+Scaffold2	760481	775950	99	W	contig231	1	15470	+
+Scaffold2	775951	776000	100	N	50	Fragment	yes
+Scaffold2	776001	791470	101	W	contig232	1	15470	+
+Scaffold2	791471	791520	102	N	50	Fragment	yes
+Scaffold2	791521	806990	103	W	contig233	1	15470	+
+Scaffold2	806991	807040	104	N	50	Fragment	yes
+Scaffold2	807041	822510	105	W	contig234	1	15470	+
+Scaffold2	822511	822560	106	N	50	Fragment	yes
+Scaffold2	822561	838030	107	W	contig235	1	15470	+
+Scaffold2	838031	838080	108	N	50	Fragment	yes
+Scaffold2	838081	853550	109	W	contig236	1	15470	+
+Scaffold2	853551	853600	110	N	50	Fragment	yes
+Scaffold2	853601	869070	111	W	contig237	1	15470	+
+Scaffold2	869071	869120	112	N	50	Fragment	yes
+Scaffold2	869121	884590	113	W	contig238	1	15470	+
+Scaffold2	884591	884640	114	N	50	Fragment	yes
+Scaffold2	884641	900110	115	W	contig239	1	15470	+
+Scaffold2	900111	900160	116	N	50	Fragment	yes
+Scaffold2	900161	915630	117	W	contig240	1	15470	+
+Scaffold2	915631	915680	118	N	50	Fragment	yes
+Scaffold2	915681	931150	119	W	contig241	1	15470	+
+Scaffold2	931151	931200	120	N	50	Fragment	yes
+Scaffold2	931201	946670	121	W	contig242	1	15470	+
+Scaffold2	946671	946720	122	N	50	Fragment	yes
+Scaffold2	946721	962190	123	W	contig243	1	15470	+
+Scaffold2	962191	962240	124	N	50	Fragment	yes
+Scaffold2	962241	977710	125	W	contig244	1	15470	+
+Scaffold2	977711	977760	126	N	50	Fragment	yes
+Scaffold2	977761	993230	127	W	contig245	1	15470	+
+Scaffold2	993231	993280	128	N	50	Fragment	yes
+Scaffold2	993281	1008750	129	W	contig246	1	15470	+
+Scaffold2	1008751	1008800	130	N	50	Fragment	yes
+Scaffold2	1008801	1024270	131	W	contig247	1	15470	+
+Scaffold2	1024271	1024320	132	N	50	Fragment	yes
+Scaffold2	1024321	1039790	133	W	contig248	1	15470	+
+Scaffold2	1039791	1039840	134	N	50	Fragment	yes
+Scaffold2	1039841	1055310	135	W	contig249	1	15470	+
+Scaffold2	1055311	1055360	136	N	50	Fragment	yes
+Scaffold2	1055361	1070830	137	W	contig250	1	15470	+
+Scaffold2	1070831	1070880	138	N	50	Fragment	yes
+Scaffold2	1070881	1086350	139	W	contig251	1	15470	+
+Scaffold2	1086351	1086400	140	N	50	Fragment	yes
+Scaffold2	1086401	1101870	141	W	contig252	1	15470	+
+Scaffold2	1101871	1101920	142	N	50	Fragment	yes
+Scaffold2	1101921	1117390	143	W	contig253	1	15470	+
+Scaffold2	1117391	1117440	144	N	50	Fragment	yes
+Scaffold2	1117441	1132910	145	W	contig254	1	15470	+
+Scaffold2	1132911	1132960	146	N	50	Fragment	yes
+Scaffold2	1132961	1148430	147	W	contig255	1	15470	+
+Scaffold2	1148431	1148480	148	N	50	Fragment	yes
+Scaffold2	1148481	1163950	149	W	contig256	1	15470	+
+Scaffold2	1163951	1164000	150	N	50	Fragment	yes
+Scaffold2	1164001	1179470	151	W	contig257	1	15470	+
+Scaffold2	1179471	1179520	152	N	50	Fragment	yes
+Scaffold2	1179521	1194990	153	W	contig258	1	15470	+
+Scaffold2	1194991	1195040	154	N	50	Fragment	yes
+Scaffold2	1195041	1210510	155	W	contig259	1	15470	+
+Scaffold2	1210511	1210560	156	N	50	Fragment	yes
+Scaffold2	1210561	1226030	157	W	contig260	1	15470	+
+Scaffold2	1226031	1226080	158	N	50	Fragment	yes
+Scaffold2	1226081	1241550	159	W	contig261	1	15470	+
+Scaffold2	1241551	1241600	160	N	50	Fragment	yes
+Scaffold2	1241601	1257070	161	W	contig262	1	15470	+
+Scaffold2	1257071	1257120	162	N	50	Fragment	yes
+Scaffold2	1257121	1272590	163	W	contig263	1	15470	+
+Scaffold2	1272591	1272640	164	N	50	Fragment	yes
+Scaffold2	1272641	1288110	165	W	contig264	1	15470	+
+Scaffold2	1288111	1288160	166	N	50	Fragment	yes
+Scaffold2	1288161	1303630	167	W	contig265	1	15470	+
+Scaffold2	1303631	1303680	168	N	50	Fragment	yes
+Scaffold2	1303681	1319150	169	W	contig266	1	15470	+
+Scaffold2	1319151	1319200	170	N	50	Fragment	yes
+Scaffold2	1319201	1334670	171	W	contig267	1	15470	+
+Scaffold2	1334671	1334720	172	N	50	Fragment	yes
+Scaffold2	1334721	1350190	173	W	contig268	1	15470	+
+Scaffold2	1350191	1350240	174	N	50	Fragment	yes
+Scaffold2	1350241	1365710	175	W	contig269	1	15470	+
+Scaffold2	1365711	1365760	176	N	50	Fragment	yes
+Scaffold2	1365761	1381230	177	W	contig270	1	15470	+
+Scaffold2	1381231	1381280	178	N	50	Fragment	yes
+Scaffold2	1381281	1396750	179	W	contig271	1	15470	+
+Scaffold2	1396751	1396800	180	N	50	Fragment	yes
+Scaffold2	1396801	1412270	181	W	contig272	1	15470	+
+Scaffold2	1412271	1412320	182	N	50	Fragment	yes
+Scaffold2	1412321	1427790	183	W	contig273	1	15470	+
+Scaffold2	1427791	1427840	184	N	50	Fragment	yes
+Scaffold2	1427841	1443310	185	W	contig274	1	15470	+
+Scaffold3	1	15470	1	W	contig275	1	15470	+
+Scaffold3	15471	15520	2	N	50	Fragment	yes
+Scaffold3	15521	30990	3	W	contig276	1	15470	+
+Scaffold3	30991	31040	4	N	50	Fragment	yes
+Scaffold3	31041	46510	5	W	contig277	1	15470	+
+Scaffold3	46511	46560	6	N	50	Fragment	yes
+Scaffold3	46561	62030	7	W	contig278	1	15470	+
+Scaffold3	62031	62080	8	N	50	Fragment	yes
+Scaffold3	62081	77550	9	W	contig279	1	15470	+
+Scaffold3	77551	77600	10	N	50	Fragment	yes
+Scaffold3	77601	93070	11	W	contig280	1	15470	+
+Scaffold3	93071	93120	12	N	50	Fragment	yes
+Scaffold3	93121	108590	13	W	contig281	1	15470	+
+Scaffold3	108591	108640	14	N	50	Fragment	yes
+Scaffold3	108641	124110	15	W	contig282	1	15470	+
+Scaffold3	124111	124160	16	N	50	Fragment	yes
+Scaffold3	124161	139630	17	W	contig283	1	15470	+
+Scaffold3	139631	139680	18	N	50	Fragment	yes
+Scaffold3	139681	155150	19	W	contig284	1	15470	+
+Scaffold3	155151	155200	20	N	50	Fragment	yes
+Scaffold3	155201	170670	21	W	contig285	1	15470	+
+Scaffold3	170671	170720	22	N	50	Fragment	yes
+Scaffold3	170721	186190	23	W	contig286	1	15470	+
+Scaffold3	186191	186240	24	N	50	Fragment	yes
+Scaffold3	186241	201710	25	W	contig287	1	15470	+
+Scaffold3	201711	201760	26	N	50	Fragment	yes
+Scaffold3	201761	217230	27	W	contig288	1	15470	+
+Scaffold3	217231	217280	28	N	50	Fragment	yes
+Scaffold3	217281	232750	29	W	contig289	1	15470	+
+Scaffold3	232751	232800	30	N	50	Fragment	yes
+Scaffold3	232801	248270	31	W	contig290	1	15470	+
+Scaffold3	248271	248320	32	N	50	Fragment	yes
+Scaffold3	248321	263790	33	W	contig291	1	15470	+
+Scaffold3	263791	263840	34	N	50	Fragment	yes
+Scaffold3	263841	279310	35	W	contig292	1	15470	+
+Scaffold3	279311	279360	36	N	50	Fragment	yes
+Scaffold3	279361	294830	37	W	contig293	1	15470	+
+Scaffold3	294831	294880	38	N	50	Fragment	yes
+Scaffold3	294881	310350	39	W	contig294	1	15470	+
+Scaffold3	310351	310400	40	N	50	Fragment	yes
+Scaffold3	310401	325870	41	W	contig295	1	15470	+
+Scaffold3	325871	325920	42	N	50	Fragment	yes
+Scaffold3	325921	341390	43	W	contig296	1	15470	+
+Scaffold3	341391	341440	44	N	50	Fragment	yes
+Scaffold3	341441	356910	45	W	contig297	1	15470	+
+Scaffold3	356911	356960	46	N	50	Fragment	yes
+Scaffold3	356961	372430	47	W	contig298	1	15470	+
+Scaffold3	372431	372480	48	N	50	Fragment	yes
+Scaffold3	372481	387950	49	W	contig299	1	15470	+
+Scaffold3	387951	388000	50	N	50	Fragment	yes
+Scaffold3	388001	403470	51	W	contig300	1	15470	+
+Scaffold3	403471	403520	52	N	50	Fragment	yes
+Scaffold3	403521	418990	53	W	contig301	1	15470	+
+Scaffold3	418991	419040	54	N	50	Fragment	yes
+Scaffold3	419041	434510	55	W	contig1	1	15470	+
+Scaffold3	434511	434560	56	N	50	Fragment	yes
+Scaffold3	434561	450030	57	W	contig2	1	15470	+
+Scaffold3	450031	450080	58	N	50	Fragment	yes
+Scaffold3	450081	465550	59	W	contig3	1	15470	+
+Scaffold3	465551	465600	60	N	50	Fragment	yes
+Scaffold3	465601	481070	61	W	contig4	1	15470	+
+Scaffold3	481071	481120	62	N	50	Fragment	yes
+Scaffold3	481121	496590	63	W	contig5	1	15470	+
+Scaffold3	496591	496640	64	N	50	Fragment	yes
+Scaffold3	496641	512110	65	W	contig6	1	15470	+
+Scaffold3	512111	512160	66	N	50	Fragment	yes
+Scaffold3	512161	527630	67	W	contig7	1	15470	+
+Scaffold3	527631	527680	68	N	50	Fragment	yes
+Scaffold3	527681	543150	69	W	contig8	1	15470	+
+Scaffold3	543151	543200	70	N	50	Fragment	yes
+Scaffold3	543201	558670	71	W	contig9	1	15470	+
+Scaffold3	558671	558720	72	N	50	Fragment	yes
+Scaffold3	558721	574190	73	W	contig10	1	15470	+
+Scaffold3	574191	574240	74	N	50	Fragment	yes
+Scaffold3	574241	589710	75	W	contig11	1	15470	+
+Scaffold3	589711	589760	76	N	50	Fragment	yes
+Scaffold3	589761	605230	77	W	contig12	1	15470	+
+Scaffold3	605231	605280	78	N	50	Fragment	yes
+Scaffold3	605281	620750	79	W	contig13	1	15470	+
+Scaffold3	620751	620800	80	N	50	Fragment	yes
+Scaffold3	620801	636270	81	W	contig14	1	15470	+
+Scaffold3	636271	636320	82	N	50	Fragment	yes
+Scaffold3	636321	651790	83	W	contig15	1	15470	+
+Scaffold3	651791	651840	84	N	50	Fragment	yes
+Scaffold3	651841	667310	85	W	contig16	1	15470	+
+Scaffold3	667311	667360	86	N	50	Fragment	yes
+Scaffold3	667361	682830	87	W	contig17	1	15470	+
+Scaffold3	682831	682880	88	N	50	Fragment	yes
+Scaffold3	682881	698350	89	W	contig18	1	15470	+
+Scaffold3	698351	698400	90	N	50	Fragment	yes
+Scaffold3	698401	713870	91	W	contig19	1	15470	+
+Scaffold3	713871	713920	92	N	50	Fragment	yes
+Scaffold3	713921	729390	93	W	contig20	1	15470	+
+Scaffold3	729391	729440	94	N	50	Fragment	yes
+Scaffold3	729441	744910	95	W	contig21	1	15470	+
+Scaffold3	744911	744960	96	N	50	Fragment	yes
+Scaffold3	744961	760430	97	W	contig22	1	15470	+
+Scaffold3	760431	760480	98	N	50	Fragment	yes
+Scaffold3	760481	775950	99	W	contig23	1	15470	+
+Scaffold3	775951	776000	100	N	50	Fragment	yes
+Scaffold3	776001	791470	101	W	contig24	1	15470	+
+Scaffold3	791471	791520	102	N	50	Fragment	yes
+Scaffold3	791521	806990	103	W	contig25	1	15470	+
+Scaffold3	806991	807040	104	N	50	Fragment	yes
+Scaffold3	807041	822510	105	W	contig26	1	15470	+
+Scaffold3	822511	822560	106	N	50	Fragment	yes
+Scaffold3	822561	838030	107	W	contig27	1	15470	+
+Scaffold3	838031	838080	108	N	50	Fragment	yes
+Scaffold3	838081	853550	109	W	contig28	1	15470	+
+Scaffold3	853551	853600	110	N	50	Fragment	yes
+Scaffold3	853601	869070	111	W	contig29	1	15470	+
+Scaffold3	869071	869120	112	N	50	Fragment	yes
+Scaffold3	869121	884590	113	W	contig30	1	15470	+
+Scaffold3	884591	884640	114	N	50	Fragment	yes
+Scaffold3	884641	900110	115	W	contig31	1	15470	+
+Scaffold3	900111	900160	116	N	50	Fragment	yes
+Scaffold3	900161	915630	117	W	contig32	1	15470	+
+Scaffold3	915631	915680	118	N	50	Fragment	yes
+Scaffold3	915681	931150	119	W	contig33	1	15470	+
+Scaffold4	1	15470	1	W	contig43	1	15470	+
+Scaffold5	1	15470	1	W	contig38	1	15470	+
+Scaffold6	1	15470	1	W	contig46	1	15470	+
+Scaffold7	1	15470	1	W	contig45	1	15470	+
+Scaffold8	1	15470	1	W	contig44	1	15470	+
+Scaffold9	1	15470	1	W	contig35	1	15470	+
